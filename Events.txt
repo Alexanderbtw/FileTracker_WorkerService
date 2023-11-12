@@ -1,0 +1,15 @@
+13-Nov-23 01:32:43 Created: ObservableFolder\New folder
+13-Nov-23 01:32:45 Renamed: ObservableFolder\New folder to ObservableFolder\123
+13-Nov-23 01:33:06 Deleted: ObservableFolder\123
+Hosting starting
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\C#\Practice\FileTracker_WorkerService
+Hosting started
+Hosting starting
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\C#\Practice\FileTracker_WorkerService
+Hosting started
+13-Nov-23 01:54:15 Deleted: D:\C#\Practice\FileTracker_WorkerService\ObservableFolder\123
+
