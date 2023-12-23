@@ -21,4 +21,3 @@ Hosting started
 23-Dec-23 22:58:01 Created: D:\C#\Practice\FileTracker_WorkerService\ObservableFolder\New folder
 
 23-Dec-23 22:58:08 Deleted: D:\C#\Practice\FileTracker_WorkerService\ObservableFolder\New folder
-
