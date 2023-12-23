@@ -13,3 +13,12 @@ Content root path: D:\C#\Practice\FileTracker_WorkerService
 Hosting started
 13-Nov-23 01:54:15 Deleted: D:\C#\Practice\FileTracker_WorkerService\ObservableFolder\123
 
+Hosting starting
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\C#\Practice\FileTracker_WorkerService
+Hosting started
+23-Dec-23 22:58:01 Created: D:\C#\Practice\FileTracker_WorkerService\ObservableFolder\New folder
+
+23-Dec-23 22:58:08 Deleted: D:\C#\Practice\FileTracker_WorkerService\ObservableFolder\New folder
+
